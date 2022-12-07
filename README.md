@@ -1,2 +1,2 @@
-# Instalacao
+# Instalação
  Tutorial de Instalação do Sistema
